@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConcurrencyProblems.iml" filepath="$PROJECT_DIR$/ConcurrencyProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiningPhilosophers/DiningPhilosophers.iml" filepath="$PROJECT_DIR$/DiningPhilosophers/DiningPhilosophers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SrudentLibrary/StudentLibrary.iml" filepath="$PROJECT_DIR$/SrudentLibrary/StudentLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TokenBucketFilter/TokenBucketFilter.iml" filepath="$PROJECT_DIR$/TokenBucketFilter/TokenBucketFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UberRiding/UberRiding.iml" filepath="$PROJECT_DIR$/UberRiding/UberRiding.iml" />
+    </modules>
+  </component>
+</project>
