@@ -5,4 +5,3 @@ A chopstick can be hold by one philosopher at a given time <br>
 The problem: how to create a concurrent algorithm such that no philosopher will starve<br>
 
 
-Reference:https://www.udemy.com/course/multithreading-and-parallel-computing-in-java/
